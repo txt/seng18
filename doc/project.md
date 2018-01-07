@@ -127,7 +127,6 @@ _____
 
 See https://support.google.com/docs/answer/87809?hl=en
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cm3KyqbaMJA" frameborder="0" allowfullscreen></iframe>
 
 ### Mechanical Turk (Jack)
 
