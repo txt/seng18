@@ -14,13 +14,14 @@ ______
 
 # Home
 
-Here's your test to check if you are a great engineering:
+Are you a great software engineer? Can you...
 
 - Glance at any system;
 - Know how to build it another, possibly better, way;
 - Understand the cost/benefits of changing from the current to the alternate;
-- Knows when its worth to apply little patches or dynamite to the current project;
+- Knows when its worth to apply little patches or dynamite to the current project (or do nothing at all);
 
+This class aims to make you into a great software engineer.
 Software Engineering is the process of the
 design,
 construction and
@@ -104,11 +105,10 @@ Testing:
 <!-- -------------------------------- -->
 
 </td><td align=center valign=top xwidth="100px">
-<a href="https://goo.gl/wGmoXe">5. MT Notes</a><br>
-<a href="img/usingMT.pdf">4. Using MT</a><br>
-<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">3. Clipit</a><br>
-<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">2. Expenses</a><br>
-<a href="doc/badsmells.md">1. Bad smells</a><br>
+<a href="https://goo.gl/wGmoXe">4. MT Notes</a><br>
+<a href="img/usingMT.pdf">3. Using MT</a><br>
+<a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">2. Clipit</a><br>
+<a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">1. Expenses</a><br>
 <a href="doc/project.md">0. Project</a>
 </td>
 <td align=center   valign=top xwidth="100px">
