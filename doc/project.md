@@ -14,10 +14,11 @@ ______
 
 # Project
 
-## How to find a community with a problem with X:
+## How to find a Project
 
 1. Do whatever you want.
-2. Or, think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
+2. <img align=right width=400 src="https://cdn.shopify.com/s/files/1/1403/6949/products/IMG_9804_2048x2048.PNG?v=1507805109">You get 10 marks from your peers depending on how "cool" is your project. So be cool.
+2. Think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
 3. Or, look at what students in this class have done before:
       - [2017](https://docs.google.com/spreadsheets/d/1VKyJXfArq2DzuIfagd0Ffv2HLPO6mVnPWv8OZxexY-k/edit#gid=0): look at "mar report" and "mar talk"
       - [2016](https://docs.google.com/spreadsheets/d/1wxon-QXvDlDbkP95esby3HTEt2yZQezQRuxdCMm5lZg/edit#gid=0) : look at apr1:talk and apr1: report

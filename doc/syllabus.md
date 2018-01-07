@@ -153,7 +153,7 @@ ____
 
 ### Lecturer
 
-Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=100>
+Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
 
 + Github id: timm
 + Slack name: timm
@@ -168,7 +168,7 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 ### Tutors
 
 
-<img src="http://ai4se.net/img/huy.jpg" align=right width=100>
+<img src="http://ai4se.net/img/huy.jpg" align=right width=200>
 Huy ("Who-We") Tu
 
 + Github id:  huytu7
@@ -179,8 +179,8 @@ Huy ("Who-We") Tu
 
 <br clear=all>
 
-<img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz"  align=right width=100>
-Amritanshu Agrawal
+<img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz"  align=right width=200>
+Amritanshu Agrawa
 
 + Github id:  amritbhanu
 + Slack name: aagrawa8
