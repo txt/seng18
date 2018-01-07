@@ -14,7 +14,7 @@ ______
 
 # Home
 
-The premise of this subject is that computer programming languages should adapt to the ways of people, and not the other way around. Why? well...
+ The premise of this subject is that computer programming languages should adapt to the ways of people, and not the other way around. Why? well...
 
 - [Sapir-Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity#Programming_languages): The structure of a language affects its speakers' world view or cognition.
 - Given the right language, problem solving becomes easier [Hofstadter, 1980, p286](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
