@@ -288,4 +288,17 @@ Top 2 most cited papers....
 
 <img src="../img/papersRecent.png">
 
+- Program Analysis = program, analysis, dynamic, execution, code, java, static
+- Requirements = requirements, design, systems, architecture, analysis, process, development
+- Metrics = metrics, data, quality, effort, prediction, defect, analysis
+- Applications = applications, web, systems, component, services, distributed, user
+- Performance = performance, time, data, algorithm, systems, problem, network, distributed
+- OOPS = object-oriented, programming, realtime, systems, section, functional, java
+- Testing =  test, testing, cases, fault, techniques, coverage, generation
+- Source Code = code, source, information, tool, program, developers, patterns
+- Architecture =  architecture, component, systems, design, product, reuse, evolution
+- Modeling = model, language, specification, systems, techniques, object, uml
+- Developer =  developer, project, bug, work, open, team, tools
+
+<http href="../img/trends2.png"><img width=600 src="../img/trends2.png"></a>
 
