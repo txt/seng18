@@ -136,7 +136,7 @@ Note: No more than 2 Proj2 teams can work on the same Proj1 task
 
 It is each student's responsibility to join the Slack  group:
 
-+ [https://se17.slack.com](https://seng18.slack.com)
++ [https://seng18.slack.com](https://seng18.slack.com)
 + Students are strongly encouraged to contribute their questions and answers to that shared resource.
 + Note that, for communication of a more private nature, contact the lecturer on the email shown below.
 
@@ -161,17 +161,29 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
        + **Do not use** this number, except in the most dire of 
           circumstances (best way to contact me is via email).
 
-### Tutor
+### Tutors
 
 
-Effat Farhana <img src="../img/gta.jpg" align=right width=100>
+<img src="http://ai4se.net/img/huy.jpg" align=right width=100>
+Huy ("Who-We") Tu
 
-+ Github id:  effat
-+ E-mail: efarhan@ncsu.edu
-  + Only use this email for private matters.
-  + All other class communication should be via the class news group, listed after.
-+ Office hours: Wed 12:00 to 2pm
-+ Office location: 1229B
++ Github id:  huytu7
++ Slack name: hqtu
++ E-mail: hqtu@ncsu.edu
++ Office hours: Tues 11am-1pm
++ Office location: 3240
+
+<br clear=all>
+
+<img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz"  align=right width=100>
+Amritanshu Agrawal
+
++ Github id:  amritbhanu
++ Slack name: aagrawa8
++ E-mail: aagrawa8@ncsu.edu
++ Office hours: Thurs 11am-1pm
++ Office location: 3240
+
 
 ____
 
@@ -195,20 +207,6 @@ As to what is an "excused" class, see the list at
 - Unanticipated absences. Examples include:
      - Short-term illness or injury
      - Death or serious illnesses in the family when documented appropriately. 
-
-#### Attendance in Week1
-
-Regarding attendance in week one,
-material will be presented
-n the first week  that
-is important for the course, assignments, and exams.
-Groups will be formed for project(s).
-It will be each student's
- responsibility to make up any missed lecture
-material or sort out group membership after your
-return, and you should not expect the instructor or
-TAs to offer any make up or other supplemental
-material for the days that you miss.
 
 ### Expected Workload
 
