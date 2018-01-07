@@ -12,211 +12,144 @@ ______
 
 
 
-# Syllabus
+# Syllabus 
 
-Spring 2018  
-CSC 495 Special Topics in CS (11297)  
-EB3, 2201  
-Tues, Thus, 4:30 to 5:45pm   
+<img align=right width=400
+src="https://d2fkddr0p2jbv6.cloudfront.net/render/standard/4806648449357858/mug15oz-whi-z1-t-did-you-check-the-syllabus.png">
+
+CSC 510 - 001 (2216)    
+NcState, ComSci    
+Spring 2017
+
+EE-II room 1021    
+Tues,Thurs 4:30PM - 5:45PM  
+
+____
+
+## Overview
+
+### Topics
+
+An introduction to software life cycle models; size
+estimation; cost and schedule estimation; project
+management; risk management; formal technical
+reviews; analysis, design, coding and testing
+methods; configuration management and change
+control; and software reliability
+estimation. Emphasis on large development
+projects. A group project required following
+good software engineering practices throughout the
+semester.
+
+### Objectives
+
+Students are expected to gain practical exposure to
+tools, processes, and principles of software
+engineering through hands-on projects while being
+able to explain empirical and theoretical evidence,
+technical mechanisms, and models supporting software
+engineering.
 
 
-## Catalog description:
+### Prerequisites
+
++ CSC 316 and CSC 226
+
+### Textbook
+
++ [Software Engineering: A Practitioner's Approach, 7th International edition](https://www.amazon.com/gp/offer-listing/0071267824/ref=dp_olp_used?ie=UTF8&condition=used)
+by Roger Pressman (optional).
+
+### Assessment
+
+Student will sit exams to determine their understanding of lecture material.
+
+<!-- a href="https://computer-engineer-barbie.herokuapp.com/"><img width=400 align=right src="../img/barbieGithub.png"></a --->
+Students will work in groups of three using Github
+to test their ability to work in groups to deliver software.
+
+Students will use Github to store their software and Github issues to document their communications
+between each other for that project.
+
+Grades will be assigned as follows:
+
+- Spot quizes, misc (quick) home works, 5 marks.
+- Mid-term: Tuesday, March2, 15 marks
+- Final exam: 20 marks
+- Participation in evaluations: 10 marks (one per evaluation)
+      - Students will be issued 10 "chits" with 10 magic numbers
+      - When they perform any evaluation, they hand over the "chit"
+      - When students hand in their Jan31 and Mar31 reports, they list the chit numbers of the students present for their evals.
+      - Chits must be "spent" in other projects (you cannot hand in chits from your own people for your own project).
+- Project: 50 marks,  
+
+|due|marks|notes|
+|---|-----|-----|
+|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - short talk to class (5marks)<br> - And your project name and URL [here](tiny.cc/se17give)|
+| Feb28|10| Progress report:<br>- Report on 3 propose solutions and evaluation plan (5 marks)<br>- Demos to lecturer or tutor (marks deducted if absent)<br>- Much Github activity from all developers(*) (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
+| Mar31|20| Final report:<br>- 10min talk to the class  (10 marks);  <br>- A report document (results and recommendations)  (10 marks). See [example](https://goo.gl/3C82cj)|
+| Apr28|10| A report on "bad smell detection" in Github issues; e.g.  [here](https://github.com/CSC510-2015-Axitron/project2)|
+
+(*) An active Github repo contains dozens to hundreds of commits and issues; all issues are in five to twenty (or more) milestones;
+issues are labeled;
+issues are getting opened and closed; (some) milestones are getting completed (but others might actually be your plan for your March work);
+all members of the team are contributing equally (plus or minus 33%).
 
 
-General principles of programming languages. Parsing technology
-such as  tokenization, parse trees, syntactic analysis, semantic
-analysis, regular expressions. Higher-level concepts such as state
-machines, type theory, lambda calculus, functions, closures and
-objects, predicates, resolution theorem proving. Projects in building
-programs using different paradigms.
-Extra topics include domain-specific languages and various
-languages used in industry and research; e.g. Python, Julia, Clojure,
-Prolog, Elixr, Haskell, etc.
+With the final grades, the following grade scale will be used: 
 
+     A+ (97-100),  A (93-96),   A-(90-92)
+     B+ (87-89),   B (83-86),   B-(80-82)
+     C+ (77-79),   C (73-76),   C-(70-72)
+     D+ (67-69),   D (63-66),   D-(60-62)
+     F (below 60).
 
-## General description:
+### Group Slack group
 
+It is each student's responsibility to join the Slack  group:
 
-Given a commercial software problem, how can we best select a
-programming language for that problem? Further, given the ever-changing
-nature of computer programming languages, what can we learn now
-that will help us in the future to better understand future programming
-languages? To answer these questions, this subject takes a pragmatic
-and a theoretical approach,  from a modeling perspective.
++ [https://se17.slack.com](https://se17.slack.com)
++ Students are strongly encouraged to contribute their questions and answers to that shared resource.
++ Note that, for communication of a more private nature, contact the lecturer on the email shown below.
 
+All class communication from staff to students will be via this Slack group.
 
-Lectures will cover:
+**IMPORTANT:** Students should not use Slack from their intra-group communication. All such communication
+should be via Github. Why? Well, the final project is a decision support system that reflects over the
+issue close times of data in Github.
 
-- Python programming
-   - all exercises will be done in Python
-- Parsing (basic)
-   - technology inclusing
-     tokenization, BNF, parse trees, syntactic analysis, semantic analysis,
-     regular expressions, macros
-- Styles
-   - From the Lopes text on programming styles
-   - good-old-times, forth, monolith, cookbook, pieline, reflective, spreadsheet, actors, map-reduce....
-- Paradigms:
-   - classical single-style languages such as LISP (functional), Smalltak (OO),  and Prolog (logical).  
-   - theory of programming (lambda calculus, logic programming, finite-state machines, closures,
-     predicates, etc
-- Idioms (usied in domain-specific languages)
-   - From the Fowler text on DLS.
-   - BNF, closure, decision table, dependency network, state machine, production rules....
-
-As to the modeling perspective, students will use these tools to
-build interpreters of domain-specific languages that are understandable
-and maintainable by non-programers.
-
+____
 
 ## Staff
 
-### Lecturer 
+### Lecturer
 
-<img width=200 align=right  src="http://menzies.us/img/smalltimm.png">
+Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=100>
 
-+ Tim Menzies (Prof)
-+ Office Hours: Tuesday, 2:00-4:00 and by request
++ Github id: timm
++ Office Hours: Tuesday, 2:30-4:30 and by request
 + Location of Office Hours: EE II room 3298 
-+ Github name: timm
-+ Slack name: timm
 + E-Mail: tim.menzies@gmail.com 
-  + Only use this email for private matters. All other class communication should be via the class Slack group [http://plm18.slack.com](http://plm18.slack.com).
+  + Only use this email for private matters. All other class communication should be via the class news group,    listed below.
 + Phone: 304-376-2859
        + **Do not use** this number, except in the most dire of 
           circumstances (best way to contact me is via email).
 
-### Teaching assistant
-
-<img width=200 align=right  src="http://ai4se.net/img/Patrick.png">
-
-+ Tianpei (Patrick) Xia 
-+ Office Hours: Wed 5pm to 7pm
-+ Location of Office Hours: EB2 3240
-+ Github name: arennax
-+ Slack name: patrick\_xia 
-
-<br clear=all>
-
-## Details
-
-### Group Mailing List
-
-During term time, all communication will be via
-the Slack group https://plm18.slack.com.
-. Students are strongly encouraged to contribute their questions and answers to that shared resource.
-+ Note that, for communication of a more private nature, contact the lecturer on the email shown above.
+### Tutor
 
 
-### Prerequisite
+Effat Farhana <img src="../img/gta.jpg" align=right width=100>
 
-Note that this is a
-**programming-intensive** subject. A programming
-background is required in a contemporary language
-such as Java or C/C++ or Python. Hence,he
-prerequisite for this class is 510, Software
-Engineering. Significant software industry
-experience may be substituted, at the instructor’s
-discretion.  Students in this class will work in
-Python, but no background knowledge of that language
-will be assumed.
++ Github id:  effat
++ E-mail: efarhan@ncsu.edu
+  + Only use this email for private matters.
+  + All other class communication should be via the class news group, listed after.
++ Office hours: Wed 12:00 to 2pm
++ Office location: 1229B
 
-### Suggested texts
+____
 
-[Exercises in Programming Style](https://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371)     
-by Cristina Videira Lopes    
-Chapman and Hall/CRC; 1 edition (June 4, 2014)    
-ISBN-10: 1482227371
-
-- [code avaliable on-line](https://github.com/crista/exercises-in-programming-style)
-- [Introductory slides](http://gotocon.com/dl/goto-aar-2013/slides/CristinaVideiraLopes_ExercisesInStyle.pdf)
-
-
-Domain-Specific Languages   
-by Martin Fowler   
-Addison-Wesley Professional; 1 edition (October 3, 2010)   
-ISBN-10: 0321712943 
-
-- [Catalog of DSL patterns](https://martinfowler.com/dslCatalog/)
-
-Thinks Python   
-by Allen Downey   
-O'Reilly Media; 2 edition (December 28, 2015)   
-ISBN-10: 1491939362
-
-- [PDF version](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-- [HTML version](http://greenteapress.com/thinkpython2/html/index.html)
-- [Code samples](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
-
-
-### Expected Workload 
-
-This is tools-based subject
-and it is required that students learn and use those
-tools (Python, repositories, etc).  Students MUST be
-prepared to dedicate AT LEAST 5-8 working hours a
-week to this class. 
-Laboratory instruction is not included
-in this subject (but the first three weeks will be
-spent on some in-depth programming tutorials). Note
-that the workload for masters and Ph.D. students
-will be different (see above).
-
-Sometimes, the lecturer/tutor will require you to attend a review session during their consultation  time. There, students may be asked to review
-code, concepts, or comment on the structure of the course. Those sessions are mandatory and failure to attend will result in marks being deducted.
-
-### Grading 
-
-The following grade scale will be used: 
-
-+ A+  (97-100), A (93-96), A-(90-92)
-+ B+ (87-89), B (83-86), B-(80-82)
-+ C+ (77-79), C (73-76), C-(70-72)
-+ D+ (67-69), D (63-66), D-(60-62)
-+ F (below 60).
-
-Grades will be added together using:
-
-+ Homeworks : 5 exercises, 4 marks each
-+ Mid-term (Thursday March1, 6pm) : 20  marks
-+ Final Exam (Tuesday, May8, 6pm): 30 marks
-+ Project (due April 26) 
-     - 7 marks: Video of the thing running
-     - 7 marks: **Tutorial** on the developed language (3 pages+)_
-     - 16 marks: A **Review** of your language, highlighting what parsing,  style, paradigm, idioms you used
-       (for each highlhg=ted ites, your commentary should define that item, explain
-        what problem it solves for you, discuss any drawbacks with using that item).
-	      - Note, we are expecting 8 items, or more.
-     - Tutorial and review should be fin pdf generated from Word of Latex using
-       [these tempaltes](https://www.acm.org/publications/proceedings-template-16dec2016);
-        e.g. [this doc](https://www.acm.org/binaries/content/assets/publications/article-templates/sig-alternate-sample.pdf)
-
-Reports
-that are too short or expand font size or margins sizes will lose points proprotional
-        to that expansion.
-	      
-
-### Project
-
-Projects will be done in groups of three.
-For a task specified by the lecturer, students will implement a perfect language that uses
-the perfect mix of parser, style, paradigm, and idiom to generate a domain-specific
-language that non CS-programmers can understand and use.
-
-Project will start late in Febuary after the homeworks complete.
-
-### Homework
-
-Homeworks will be done individually. 
-
-Homeworks must be submitted on the due date, otherwise will lose 1 mark late per homework.
-
-Until the end of Febuary, homeworks may be resubmitted, after rework, to get obtain higher marks.
-
-Pause.
-
-So, yes, you must submit SOMETHING each week or lose marks. But if you submit and don't get the grade,
-you CAN resubmit (at least, up to end of Feb). 
+## Other Information
 
 ### Attendance
 
@@ -225,26 +158,47 @@ experience in this class. Once you reach three
 unexcused absences, each additional absence will
 reduce your attendance grade by 10%.
 
-Except for officially allowed reasons, your presence in the class if required from day one. 
-Late-comers will have to work in their own solo groups (to avoid disruptions to existing groups).
+As to what is an "excused" class, see the list at 
+[https://policies.ncsu.edu/regulation/reg-02-20-03](https://policies.ncsu.edu/regulation/reg-02-20-03):
 
-Note that absences for weddings (your own, or someone else's, is not an offically allowed reason).
+- Anticipated absences:
+     - Representing an official university function (e.g. athletics)
+     - Required court attendance as certified by the Clerk of Court.
+     - Students will be allowed a minimum of two excused absences per academic year for religious observances 
+     - Required military duty as certified by the student's commanding officer.
+- Unanticipated absences. Examples include:
+     - Short-term illness or injury
+     - Death or serious illnesses in the family when documented appropriately. 
 
-Exceptions: this subject  will support students who are absent for any of the following
-officially allowed reasons:
+#### Attendance in Week1
 
-- Anticipated Absences (cleared with the instructor before the absence).
-Examples of anticipated situations include
-    - representing an official university function, e.g., participating in a professional meeting, as part of a judging team, or athletic team;
-    - required court attendance as certified by the Clerk of Court;
-    - religious observances as verified by the Division of Academic and Student Affairs (DASA).
-    - Required military duty as certified by the student's commanding officer.
-- Unanticipated Absences.  Excuses must be reported to the instructor not more than one week after the return to class.  Examples of unanticipated absences are:
-      -  Short-term illness or injury affecting the ability to attend or to be productive academically while in class, or that could jeopardize the health of the individual or the health of the classmates attending.  Students must notify instructors prior to the class absence, if possible, that they are temporarily unable to attend class or complete assignments on time.
-      -  Death or serious illnesses in the family when documented appropriately.  An attempt to verify deaths or serious illness will be made by the Division of Academic and Student Affairs.
+Regarding attendance in week one,
+material will be presented
+n the first week  that
+is important for the course, assignments, and exams.
+Groups will be formed for project(s).
+It will be each student's
+ responsibility to make up any missed lecture
+material or sort out group membership after your
+return, and you should not expect the instructor or
+TAs to offer any make up or other supplemental
+material for the days that you miss.
 
-That support will include changing the schedule of deliverables and/or (in extreme
-case) different grading arrangements.
+### Expected Workload
+
+ Students must be
+prepared to dedicate AT LEAST 5-8 working hours a
+week to this class (excluding the time spent in the
+classroom). Laboratory instruction is not included
+in this subject.
+
+Sometimes, the lecturer/tutor will require you to
+attend a review session during their consultation
+time. There, students may be asked to review code,
+concepts, or comment on the structure of the
+course. Those sessions are mandatory and failure to
+attend will result in marks being deducted.
+
 
 
 ### Academic Integrity
@@ -258,7 +212,7 @@ someone else's product is:
 + The imported project is understood, and
 + The imported project is significantly extended.
 
-Students are encouraged to read each others code and repor **uninformed reuse**
+Students are encouraged to read each others code and report **uninformed reuse**
 to the lecturer. The issue will be explored and, if uncovered,
 cheating will be reported to the university
 and marks will be deducted if the person who is doing the reuse:
@@ -275,7 +229,7 @@ You should be aware of the University policy on
 academic integrity found in the Code of Student
 Conduct.
  
-The  exams will be done individually.  Academic integrity is important.  Do not work together on the exams: cheating on either will be punished to the full extent permitted.  
+The  exams will be done individually.  Academic integrity is important.  Do not work together on the exams: cheating on either will be punished to the full extent permitted.
 
 ### Disabilities
 
@@ -292,13 +246,16 @@ with Disabilities Regulation(REG 02.20.01).
 Students are responsible for reviewing the PRRs
 which pertain to their course rights and
 responsibilities. These include:
-http://policies.ncsu.edu/policy/pol-04-25-05 (Equal
+[http://policies.ncsu.edu/policy/pol-04-25-05](http://policies.ncsu.edu/policy/pol-04-25-05)
+(Equal
 Opportunity and Non-Discrimination Policy
-Statement), http://oied.ncsu.edu/oied/policies.php
+Statement),
+[https://oied.ncsu.edu/home/](https://oied.ncsu.edu/home/)
 (Office for Institutional Equity and
-Diversity),http://policies.ncsu.edu/policy/pol-11-35-01
+Diversity),
+[http://policies.ncsu.edu/policy/pol-11-35-01](http://policies.ncsu.edu/policy/pol-11-35-01)
 (Code of Student Conduct), and
-http://policies.ncsu.edu/regulation/reg-02-50-03
+[http://policies.ncsu.edu/regulation/reg-02-50-03](http://policies.ncsu.edu/regulation/reg-02-50-03)
 (Grades and Grade Point Average).
 
 ### Non-Discrimination Policy
@@ -323,25 +280,51 @@ state and federal law and/or NC State University
 policy and will not be tolerated.
 
 + Note that, as a lecturer, I am legally required to
-  **report** all such acts to the campus policy.
+**report** all such acts to the campus policy<sup>1</sup>.
+
+<sup>1</sup>Note that any remark you make
+in some on-line comment tracking system like Github
+is a public document.
+So take heed of the following cautionary tale.
+One year, a student was joking around with
+his buddy in a Github issue report. Then he was
+rude enough and stupid enough to 
+add a remark about how the rest of the
+team was just so
+&#9632;&#9632;&#9632;&#9632;
+&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;.
+Needless to say,
+the rest of the team took great
+offense at this remark and invoked the University's
+non-discrimination policies. As a result, everyone
+lost much time that semester, as well as grades. 
 
 Retaliation
 against any person who complains about
 discrimination is also prohibited. NC State's
 policies and regulations covering discrimination,
 harassment, and retaliation may be accessed at
-http://policies.ncsu.edu/policy/pol-04-25-05 or
-http://www.ncsu.edu/equal_op/. Any person who feels
+[http://policies.ncsu.edu/policy/pol-04-25-05](http://policies.ncsu.edu/policy/pol-04-25-05) or
+[http://www.ncsu.edu/equal_op/](http://www.ncsu.edu/equal_op/).
+Any person who feels
 that he or she has been the subject of prohibited
 discrimination, harassment, or retaliation should
 contact the Office for Equal Opportunity (OEO) at
 919-515-3148.
 
-### Other Information
+
+### Liability Insurance.
 
 Non-scheduled class time for field trips or
 out-of-class activities are NOT required for this
-class. No such trips are currently planned. However,
+class. No such trips are currently planned.
+
+However,
 if they do happen then students are required to
 purchase liability insurance. For more information,
-see http://www2.acs.ncsu.edu/insurance/
+see [http://www2.acs.ncsu.edu/insurance/](http://www2.acs.ncsu.edu/insurance/).
+
+
+
+
+
