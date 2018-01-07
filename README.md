@@ -108,8 +108,8 @@ Testing:
 <a href="https://goo.gl/wGmoXe">7. MT Notes</a><br>
 <a href="img/usingMT.pdf">6 Using MT</a><br>
 <a href="img/authentic.pdf">5. Authentic</a></br>
-<a href="img/WhiteWolf.pdf">4. Hospital_Infections</a><br>
-<a href="img/AprilReport.pdf">3. Amazon_Reviews</a><br>
+<a href="img/WhiteWolf.pdf">4. Infections</a><br>
+<a href="img/AprilReport.pdf">3. Reviews</a><br>
 <a href="https://github.com/cleebp/csc-510-group-g/blob/master/apr1/report/report.pdf">2. Clipit</a><br>
 <a href="https://github.com/sandz-in/csc510_group_l/blob/master/april/Report.pdf">1. Expenses</a><br>
 <a href="doc/project.md">0. Project</a>
