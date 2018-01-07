@@ -24,8 +24,6 @@ Spring 2018
 EB3, 2201    
 Tues,Thurs 6:00PM - 7:15PM  
 
-____
-
 ## Overview
 
 ### Topics
@@ -60,7 +58,18 @@ engineering.
 + Optional [Software Engineering: A Practitioner's Approach, 7th International edition](https://www.amazon.com/gp/offer-listing/0071267824/ref=dp_olp_used?ie=UTF8&condition=used)
 by Roger Pressman 
 
-### Assessment
+### Group Slack group
+
+It is each student's responsibility to join the Slack  group:
+
++ [https://seng18.slack.com](https://seng18.slack.com)
++ Students are strongly encouraged to contribute their questions and answers to that shared resource.
++ Note that, for communication of a more private nature, contact the lecturer on the email shown below.
+
+All class communication from staff to students will be via this Slack group.
+
+
+## Assessment
 
 Student will sit exams to determine their understanding of lecture material.
 
@@ -90,9 +99,9 @@ With the final grades, the following grade scale will be used:
      D+ (67-69),   D (63-66),   D-(60-62)
      F (below 60).
 
-### Project
+## Project
 
-#### Project1:  Build your own (Jan,Feb) 
+### Project1:  Build your own (Jan,Feb) 
 
 Do something cool, Evaluate it (using your peers) |
 
@@ -103,7 +112,7 @@ Do something cool, Evaluate it (using your peers) |
 | 1c  | March12,14| 5| 5 minute presentation, 15 slides, 20 secs per slide. Descibe what, why and the eval|
 | 1d  | March12,14| 5| Peer assessment: how "cool" is your project?|
 
-#### Project2:  Maintain someone else's (Mar,Apr) 
+### Project2:  Maintain someone else's (Mar,Apr) 
 
 Grab some other group's system, improve it, evaluate it. 
 
@@ -122,7 +131,10 @@ Note: No more than 2 Proj2 teams can work on the same Proj1 task
  
 -  Its ok to "fail" and say the old way was better. The thing here is can you maintain
 		   someone else's code and can you evaluate it.
-- You will collecting eval data from your peers. This means you are now the gaurdians of that private data. 
+- Reports must  be in pdf generated from Word of Latex using [these templates](https://www.acm.org/publications/proceedings-template-16dec2016); e.g. [this doc](https://www.acm.org/binaries/content/assets/publications/article-templates/sig-alternate-sample.pdf).
+Reports that are too short or expand font size or margins sizes will lose points proprotional to that expansion.
+
+- You will be collecting eval data from your peers. This means you are now the gaurdians of that private data. 
   Remember the 3Rs of data collection:
       - The right to be anonymous: no one should be able to identify individuals in your data. Don't store free
          text names in Github!
@@ -131,16 +143,8 @@ Note: No more than 2 Proj2 teams can work on the same Proj1 task
       - The right to be forgotten. Any one you collect data from has the right to require their data
         deleted from your study. So keep anonymous ids for everyone, keep a mapping table real name to anonymous
 	  (outside of Github).
-
-### Group Slack group
-
-It is each student's responsibility to join the Slack  group:
-
-+ [https://seng18.slack.com](https://seng18.slack.com)
-+ Students are strongly encouraged to contribute their questions and answers to that shared resource.
-+ Note that, for communication of a more private nature, contact the lecturer on the email shown below.
-
-All class communication from staff to students will be via this Slack group.
+- Regading the "cool" mark described above:  the grades from peers will be reviewed by the lecturer to
+  determine the final "cool" mark.
 
 
 ____
