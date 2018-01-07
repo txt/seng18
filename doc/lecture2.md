@@ -238,36 +238,35 @@ Surprise #2:  testing takes half the time?
 
 ### From IDC
 
-From [IDC Predictions 2015: Accelerating Innovation- and Growth-
- on the 3rd Platform](../img/IDCForecast2015.pdf),
-Frank Gens, IDC Predictions 2015 Team.
+From [IDC Predictions 2018 ](img/predictions18.pdf)
+Frank Gens, IDC Predictions 2018 Team.
 
-(Aside: 3rd platform = mobile computing, social media, cloud computing, and information / analytics (big data),and possibly the Internet of Things.)
+In the following:
 
-+ Worldwide IT and telecom spending, exceeding $3.8
-  trillion in 2015.
-+ Smartphone and tablet spending will hit $484
-  billion, generating 40% of all IT growth.
-+ The greater cloud market will hit $118 billion,
-  growing to over $200 billion by 2018.
-+ The overall big data and analytics market will
-  reach $125 billion worldwide.
-+ In 2015, China will account for 43% of all ICT
-  spending growth, one-third of all smartphone
-  purchases, and about one-third of all online
-  shoppers.
-+ The innovation stage will also be driven by a new wave of core technologies - innovation accelerators - that radically extend the 3rd Platform's capabilities and applications, including:
-     + The Internet of Things: A massive expansion of the edge, to "smart" cars, buildings, homes, industrial equipment, wearables, and more
-     + Cognitive systems: Systems that observe, learn, analyze, offer suggestions, and even create new ideas — dramatically reshaping every services industry
-     + Pervasive robotics: Driving knowledge from the digital world into action in the physical world, through robots, self-driving cars, drones, nanorobots, and more
-     + 3D printing of all kinds: Materializing all sorts of physical things from digital blueprints - from food to clothing to eventually even living tissue and organs
-     + Natural interfaces: More simply and powerfully
-connecting people and 3rd Platform systems - through
-speech, vision, motion, touch, and beyond
-     + Cloud-based "3rd Platform"-optimized security
-technologies and solutions: Better designed to keep
-up with the massive scale and expanding scope of the
-3rd Platform.
+- ""mainstream"  means the broad middle of the bell
+curve of adoption (i.e., the 40–60% of enterprises movers and early
+adopters nor the last to act).
+- DX = digitial transformation to a digital-native enteprise. 
+     - Given the looming digitization of more than half of the global economy, digital transformation
+       will continue to rise on CEOs' and line-of-business (LOB) executives' priority lists.
+     - The urgency to digitally transform will drive an increasingly large portion of ICT budgets. By
+       the end of 2019, digital transformation spending is expected to reach $1.7 trillion worldwide, a
+
+<img src="../img/predictions18a.pdf">
+
+Drivers:
+
+- Accelerating DX: Technology-centric transformation altering business and society
+- Pace of change: Technology capabilities enable sustainable change at the speed of digital business
+-  DX delta: Leaders and disruptors widen performance gap
+-  Human versus machine: The impact of AI and automation
+-  Sense, compute, actuate: The new data-centric paradigm
+-  Platform disruption: Unleashing digital innovation's power for scale
+-  Cyberthreats: Theft, ransom, and cyberattack on the rise
+-  Shifting economics: Changing value structures and the rise of digital capital
+-  The future workforce: Global demand for digital talent
+-  Innovation impasse: Legacy systems constraining transformation
+
 
 ______
 
