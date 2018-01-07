@@ -16,9 +16,10 @@ ______
 
 Here's your test to check if you are a great engineering:
 
-- Glance at any system.
-- Know how to build it another, possibly better, way. 
-- Understand the cost/benefits of changing from the current to the alternate.
+- Glance at any system;
+- Know how to build it another, possibly better, way;
+- Understand the cost/benefits of changing from the current to the alternate;
+- Knows when its worth to apply little patches or dynamite to the current project;
 
 Software Engineering is the process of the
 design,

@@ -17,12 +17,12 @@ ______
 <img align=right width=400
 src="https://d2fkddr0p2jbv6.cloudfront.net/render/standard/4806648449357858/mug15oz-whi-z1-t-did-you-check-the-syllabus.png">
 
-CSC 510 - 001 (2216)    
+CSC 510 - 001 (2167)    
 NcState, ComSci    
-Spring 2017
+Spring 2018
 
-EE-II room 1021    
-Tues,Thurs 4:30PM - 5:45PM  
+EB3, 2201    
+Tues,Thurs 6:00PM - 7:15PM  
 
 ____
 
@@ -57,44 +57,30 @@ engineering.
 
 ### Textbook
 
-+ [Software Engineering: A Practitioner's Approach, 7th International edition](https://www.amazon.com/gp/offer-listing/0071267824/ref=dp_olp_used?ie=UTF8&condition=used)
-by Roger Pressman (optional).
++ Optional [Software Engineering: A Practitioner's Approach, 7th International edition](https://www.amazon.com/gp/offer-listing/0071267824/ref=dp_olp_used?ie=UTF8&condition=used)
+by Roger Pressman 
 
 ### Assessment
 
 Student will sit exams to determine their understanding of lecture material.
 
 <!-- a href="https://computer-engineer-barbie.herokuapp.com/"><img width=400 align=right src="../img/barbieGithub.png"></a --->
-Students will work in groups of three using Github
+Students will work in groups of four using Github
 to test their ability to work in groups to deliver software.
 
-Students will use Github to store their software and Github issues to document their communications
-between each other for that project.
 
 Grades will be assigned as follows:
 
 - Spot quizes, misc (quick) home works, 5 marks.
-- Mid-term: Tuesday, March2, 15 marks
-- Final exam: 20 marks
+- Mid-term: Tuesday, February 27, 15 marks
+- Final exam: 6pm Thurs May 3, 20 marks
 - Participation in evaluations: 10 marks (one per evaluation)
       - Students will be issued 10 "chits" with 10 magic numbers
       - When they perform any evaluation, they hand over the "chit"
-      - When students hand in their Jan31 and Mar31 reports, they list the chit numbers of the students present for their evals.
+      - When students hand in their Mar1, May1 reports,
+         they list the chit numbers of the students present for their evals.
       - Chits must be "spent" in other projects (you cannot hand in chits from your own people for your own project).
-- Project: 50 marks,  
-
-|due|marks|notes|
-|---|-----|-----|
-|Jan31|10| Initial project description:<br>- Report on related work (5 marks)<br> - short talk to class (5marks)<br> - And your project name and URL [here](tiny.cc/se17give)|
-| Feb28|10| Progress report:<br>- Report on 3 propose solutions and evaluation plan (5 marks)<br>- Demos to lecturer or tutor (marks deducted if absent)<br>- Much Github activity from all developers(*) (5marks). Submit link to [this page in your repo](https://github.com/ai-se/eebm/graphs/contributors)<br>|
-| Mar31|20| Final report:<br>- 10min talk to the class  (10 marks);  <br>- A report document (results and recommendations)  (10 marks). See [example](https://goo.gl/3C82cj)|
-| Apr28|10| A report on "bad smell detection" in Github issues; e.g.  [here](https://github.com/CSC510-2015-Axitron/project2)|
-
-(*) An active Github repo contains dozens to hundreds of commits and issues; all issues are in five to twenty (or more) milestones;
-issues are labeled;
-issues are getting opened and closed; (some) milestones are getting completed (but others might actually be your plan for your March work);
-all members of the team are contributing equally (plus or minus 33%).
-
+- Project: 50 marks (deliverables each month).
 
 With the final grades, the following grade scale will be used: 
 
@@ -104,19 +90,58 @@ With the final grades, the following grade scale will be used:
      D+ (67-69),   D (63-66),   D-(60-62)
      F (below 60).
 
+### Project
+
+#### Project1:  Build your own (Jan,Feb) 
+
+Do something cool, Evaluate it (using your peers) |
+
+|what | when | marks | notes |
+|-----|-----|--------|-----|
+|  1a | Feb1| 5| 5 page planning doc. Describes what and why. Also, an evaluation plan|
+| 1b  | Mar1  | 10|10 page report doc. . What your did. Why did you do it that way? How to install and run the code. Eval results|
+| 1c  | March12,14| 5| 5 minute presentation, 15 slides, 20 secs per slide. Descibe what, why and the eval|
+| 1d  | March12,14| 5| Peer assessment: how "cool" is your project?|
+
+#### Project2:  Maintain someone else's (Mar,Apr) 
+
+Grab some other group's system, improve it, evaluate it. 
+
+Note: No more than 2 Proj2 teams can work on the same Proj1 task
+
+
+|what | when | marks | notes |
+|-----|-----|--------|-----|
+|2a  | Mar30| 5|5 page progress report doc. What you are doing. What was done before. What you are trying to do better.|
+|2b| Apr16,Apr23|5|  10 minute presentations on what was achieved|
+|2d| Apr16,Apr23  | 5| Peer assessment: how "cool" is your project? |
+|2c| May1  | 10| 10 page report doc. What you did. Why. Evaluation of new, and compared to old. Recommendations |
+
+
+ Notes:
+ 
+-  Its ok to "fail" and say the old way was better. The thing here is can you maintain
+		   someone else's code and can you evaluate it.
+- You will collecting eval data from your peers. This means you are now the gaurdians of that private data. 
+  Remember the 3Rs of data collection:
+      - The right to be anonymous: no one should be able to identify individuals in your data. Don't store free
+         text names in Github!
+      - The right to refuse: Any member of this clss, when called to an eval session, has the right to decline
+        to participate without having to explain why (in which case, they still get their chit).
+      - The right to be forgotten. Any one you collect data from has the right to require their data
+        deleted from your study. So keep anonymous ids for everyone, keep a mapping table real name to anonymous
+	  (outside of Github).
+
 ### Group Slack group
 
 It is each student's responsibility to join the Slack  group:
 
-+ [https://se17.slack.com](https://se17.slack.com)
++ [https://se17.slack.com](https://seng18.slack.com)
 + Students are strongly encouraged to contribute their questions and answers to that shared resource.
 + Note that, for communication of a more private nature, contact the lecturer on the email shown below.
 
 All class communication from staff to students will be via this Slack group.
 
-**IMPORTANT:** Students should not use Slack from their intra-group communication. All such communication
-should be via Github. Why? Well, the final project is a decision support system that reflects over the
-issue close times of data in Github.
 
 ____
 
@@ -127,7 +152,8 @@ ____
 Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=100>
 
 + Github id: timm
-+ Office Hours: Tuesday, 2:30-4:30 and by request
++ Slack name: timm
++ Office Hours: Tuesday, 2:00-4:00 and by request
 + Location of Office Hours: EE II room 3298 
 + E-Mail: tim.menzies@gmail.com 
   + Only use this email for private matters. All other class communication should be via the class news group,    listed below.
