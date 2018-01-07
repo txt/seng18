@@ -19,7 +19,7 @@ Are you a great software engineer? Can you...
 - Glance at any system;
 - Know how to build it another, possibly better, way;
 - Understand the cost/benefits of changing from the current to the alternate;
-- Knows when its worth to apply little patches or dynamite to the current project (or do nothing at all);
+- Say when its worth to apply (a)tiny patches or (b)dynamite to the current project (or (c)do nothing at all);
 
 This class aims to make you into a great software engineer.
 Software Engineering is the process of the
