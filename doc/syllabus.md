@@ -180,7 +180,7 @@ Huy ("Who-We") Tu
 <br clear=all>
 
 <img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz"  align=right width=200>
-Amritanshu Agrawa
+Amritanshu Agrawal
 
 + Github id:  amritbhanu
 + Slack name: aagrawa8
