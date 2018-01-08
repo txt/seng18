@@ -37,7 +37,7 @@ ______
         could be the talk for that deliverable.
 - All your work must be in Github. 
        - Everything that someone else would need  to reproduce your work.   
-       - Every group needs `timm` and `huytu7` and `amritbhanu` as members.
+       - Every group needs to add `timm` and `huytu7` and `amritbhanu` as members.
 - All your presentations **must** be written in Google slides. No Prezi. No Powerpoint. No raw pdf.
      - All talks must be click at go (in url, set `start=true`)
      - All talks must auto advance each slide every 20 seconds. No more, no less. (in url, set `delayms=20000`)
