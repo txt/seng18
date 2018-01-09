@@ -287,8 +287,7 @@ Diversity),
 (Grades and Grade Point Average).
 
 ### Non-Discrimination Policy
-
-.. image:: https://farm5.staticflickr.com/4276/34435689480_2e6f358510_k_d.jpg
+ <img src="https://farm5.staticflickr.com/4276/34435689480_2e6f358510_k_d.jpg" align=right width=500>
 
 NC State University provides equality of opportunity
 in education and employment for all students and
