@@ -288,6 +288,8 @@ Diversity),
 
 ### Non-Discrimination Policy
 
+.. image:: https://farm5.staticflickr.com/4276/34435689480_2e6f358510_k_d.jpg
+
 NC State University provides equality of opportunity
 in education and employment for all students and
 employees. Accordingly, NC State affirms its
