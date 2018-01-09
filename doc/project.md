@@ -166,7 +166,7 @@ Exercise 3: Think-pair-share
      - 5 minites: pair with your neighbor, share ideas, try to find better ones
      - 8 minutes: around the room "what are our best ideas?"
 
-### Polcies with People Data 
+### Policies with People Data 
 
 No matter what is done, all sessions must start with
 
