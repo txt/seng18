@@ -17,6 +17,11 @@ ______
 ## How to find a Project
 
 1. Do whatever you want.
+      - Best to keep things small and focused. Deep better than broad
+      - See if you can extend something that is already running
+          - e.g. some ascii-based application, written as Sublime package. Such packages are GREAT for evaluation sessions: wtite options 1 and 2 as packages, swap the packages mid session
+      - best to pick something that does something ... better
+          - this leads to a natural evaluations scheme: make your eval group do something with and without your new tools.
 2. <img align=right width=400 src="https://cdn.shopify.com/s/files/1/1403/6949/products/IMG_9804_2048x2048.PNG?v=1507805109">You get 10 marks from your peers depending on how "cool" is your project. So be cool.
 2. Think about the classes you did last semester. Think about the organization of that subject, the students who tool that subject the content of that subject, who might use the content of that subject in the real world. Would any of those people have particular kinds of problems either in taking that particular subject, or in using the concepts of that subject in the real world? Can you solve those problems? 
 3. Or, look at what students in this class have done before:
