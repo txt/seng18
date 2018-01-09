@@ -169,7 +169,7 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 
 
 <img src="http://ai4se.net/img/huy.jpg" align=right width=200>
-Huy ("Who-We") Tu
+Ken Tu
 
 + Github id:  huytu7
 + Slack name: hqtu
