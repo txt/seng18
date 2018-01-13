@@ -81,14 +81,15 @@ to test their ability to work in groups to deliver software.
 Grades will be assigned as follows:
 
 - Spot quizes, misc (quick) home works, 5 marks.
+- Team check ins : 5 marks, teams must meet with a tutor at least 5  times in the semester (1 before end-Jan, 2 before end-Feb, 2 before end-March) to assess your progress.
 - Mid-term: Tuesday, February 27, 15 marks
-- Final exam: 6pm Thurs May 3, 20 marks
+- Final exam: 6pm Thurs May 3, 15 marks
 - Participation in evaluations: 10 marks (one per evaluation)
-      - Students will be issued 10 "chits" with 10 magic numbers
-      - When they perform any evaluation, they hand over the "chit"
-      - When students hand in their Mar1, May1 reports,
-         they list the chit numbers of the students present for their evals.
-      - Chits must be "spent" in other projects (you cannot hand in chits from your own people for your own project).
+    - Students will be issued 10 "chits" with 10 magic numbers
+    - When they perform any evaluation, they hand over the "chit"
+    - When students hand in their Mar1, May1 reports,
+        they list the chit numbers of the students present for their evals.
+    - Chits must be "spent" in other projects (you cannot hand in chits from your own people for your own project).
 - Project: 50 marks (deliverables each month).
 
 With the final grades, the following grade scale will be used: 
@@ -109,8 +110,8 @@ Do something cool, Evaluate it (using your peers) |
 |-----|-----|--------|-----|
 |  1a | Feb1| 5| 5 page planning doc. Describes what and why. Also, an evaluation plan|
 | 1b  | Mar1  | 10|10 page report doc. . What your did. Why did you do it that way? How to install and run the code. Eval results|
-| 1c  | March12,14| 5| 5 minute presentation, 15 slides, 20 secs per slide. Descibe what, why and the eval|
-| 1d  | March12,14| 5| Peer assessment: how "cool" is your project?|
+| 1c  | March13,15| 5| 5 minute presentation, 15 slides, 20 secs per slide. Descibe what, why and the eval|
+| 1d  | March13,15| 5| Peer assessment: how "cool" is your project?|
 
 ### Project2:  Maintain someone else's (Mar,Apr) 
 
@@ -121,9 +122,9 @@ Note: No more than 2 Proj2 teams can work on the same Proj1 task
 
 |what | when | marks | notes |
 |-----|-----|--------|-----|
-|2a  | Mar30| 5|5 page progress report doc. What you are doing. What was done before. What you are trying to do better.|
-|2b| Apr16,Apr23|5|  10 minute presentations on what was achieved|
-|2d| Apr16,Apr23  | 5| Peer assessment: how "cool" is your project? |
+|2a  | Mar29| 5|5 page progress report doc. What you are doing. What was done before. What you are trying to do better.|
+|2b| Apr17,Apr19|5|  10 minute presentations on what was achieved|
+|2d| Apr17,Apr19  | 5| Peer assessment: how "cool" is your project? |
 |2c| May1  | 10| 10 page report doc. What you did. Why. Evaluation of new, and compared to old. Recommendations |
 
 
@@ -158,7 +159,7 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 + Github id: timm
 + Slack name: timm
 + Office Hours: Tuesday, 2:00-4:00 and by request
-+ Location of Office Hours: EE II room 3298 
++ Location of Office Hours: EB II room 3298 
 + E-Mail: tim.menzies@gmail.com 
   + Only use this email for private matters. All other class communication should be via the class news group,    listed below.
 + Phone: 304-376-2859
@@ -169,24 +170,28 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 
 
 <img src="http://ai4se.net/img/huy.jpg" align=right width=200>
-Huy (Ken)  Tu
+
+Ken Tu
+
 
 + Github id:  huytu7
 + Slack name: hqtu
 + E-mail: hqtu@ncsu.edu
-+ Office hours: Tues 11am-1pm
-+ Office location: 3240
++ Office hours: Tues 11am-1pm and by email request
++ Office location: EB2 3240
 
 <br clear=all>
 
 <img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz"  align=right width=200>
-Amritanshu (Amrit) Agrawa
+
+Amritanshu Agrawal
+
 
 + Github id:  amritbhanu
 + Slack name: aagrawa8
 + E-mail: aagrawa8@ncsu.edu
-+ Office hours: Thurs 11am-1pm
-+ Office location: 3240
++ Office hours: Thurs 11am-1pm and by email request
++ Office location: EB2 3240
 
 
 ____
@@ -287,6 +292,7 @@ Diversity),
 (Grades and Grade Point Average).
 
 ### Non-Discrimination Policy
+ <img src="https://farm5.staticflickr.com/4276/34435689480_2e6f358510_k_d.jpg" align=right width=500>
 
 NC State University provides equality of opportunity
 in education and employment for all students and
