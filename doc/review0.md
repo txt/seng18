@@ -27,6 +27,6 @@ ______
 6. Explain:
   - When would you use questionaries rather then focus groups and why?
   - When would you use Semi-structured against think aloud? 
-7. What is difference between git base and git branch? 
+7. What is difference between `git rebase` and `git branch`? 
 8. When do we need to create pull requests and how can that be done?
 9. Why is it harmful to merge every commit in the master branch? How can you be safe?
