@@ -40,7 +40,7 @@ ______
         short human-readable URL; e.g. `http://tiny.cc/se17jan` could be group g's
         report for the January deliverable. Also `http://tiny.cc/se17janTalk`
         could be the talk for that deliverable.
-- All your work must be in Github. 
+- All your work must be in **Public Github in a public repository**.
        - Everything that someone else would need  to reproduce your work.   
        - Every group needs to add `timm` and `huytu7` and `amritbhanu` as members.
 - All your presentations **must** be written in Google slides. No Prezi. No Powerpoint. No raw pdf.
