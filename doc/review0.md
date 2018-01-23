@@ -30,3 +30,16 @@ ______
 7. What is difference between `git rebase` and `git branch`? 
 8. When do we need to create pull requests and how can that be done?
 9. Why is it harmful to merge every commit in the master branch? How can you be safe?
+
+# (More questions)
+10. Consider a software inside a car, what are the 3 cost benefits trade off can you think of?
+11. Consider a software inside a phone, what are the 3 cost benefits trade off can you think of?
+12. Define Software Engineering?
+13. What component of computers is most expensive?
+14. Comment on Boehm's 1973 insights.
+15. What are the stages in V Model? Which stage takes most and least amount of time?
+16. What is the meaning and importance of the horizontal lines on the V-diagram?
+17. Name 2 trends in Software Engineering that will significantly disrupt future SE development.
+
+
+
