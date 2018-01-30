@@ -23,13 +23,14 @@ ______
 6. Give an example application where the waterfall model might be suitable for.
 7. What are the major disadvantages of the waterfall model?
 8. Describe the agile model.
-9. What are its key differences compared to waterfall model?
-10. What are some potential disadvantes of agile?
-11. Describe DevOps? Why is it called DevOps?
-12. What is YAGNI? What is it about? Give 1 example.
-13. Mention 3 rules tom improve test effectiveness.
-14. What are some of examples of declarative and procedural languages?
-15. Prolog Example:
+9. What are some examples of agile practices?
+10. What are its key differences compared to waterfall model?
+11. What are some potential disadvantes of agile?
+12. Describe DevOps? Why is it called DevOps?
+13. What is YAGNI? What is it about? Give 1 example.
+14. Mention 3 rules tom improve test effectiveness.
+15. What are some of examples of declarative and procedural languages?
+16. Prolog Example:
     - What is the length of this list: [a|b,c,d,e].
 
 
