@@ -27,3 +27,6 @@ ______
 8.  What is the delay issue effect? 
      - Make a case that it must be a fundamental problem in SE.
      - Recent empirical results challenge the delay issue effect, describe those results.
+9. What is a spiral model of software development?
+10. How does spiral connected to waterfall?
+11. How could spiral model be connected to your work in February?
