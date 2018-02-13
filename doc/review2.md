@@ -13,20 +13,49 @@ ______
 
 # Review2  
 
+## Early lifecycle project planning:
+
+1.    What are drawbacks of early requirement addressing?
+2.    Define and distinguish unit, integration, system and integration tsting.
+3.    Boehm reports a certain shape in the cost-estimation uncertainty curve as a project moves from initial planning to final delivery
+    - Draw that shape
+     - Why does the  shape change as the development continues?
+4. According to Brook's Law, why does adding more programmers to a late project make taht project later?
+5.  What is the delay issue effect? 
+     - Make a case that it must be a fundamental problem in SE.
+     - Recent empirical results challenge the delay issue effect, describe those results.
+
+## Process planning:
+
+0.    Draw the v-diagram.
+1.    Spiral models
+       - What is the commit partition?
+       - What is a spiral model of software development?
+       - How is spriral connected to waterfall?
+      - How is the spiral model _different_ to waterfall model?
+      - How is the spiral model _the same_ as the waterfall model?
+      - How could spiral model be connected to your work in February?
+2.    When spiral model should not be practiced? Explain.
+3.    Facebook ships many small  changes , very often.
+      -  Which kind of s/w strategy method this is? 
+
+## Effort estimation
+
 1. What is software overestimation? What are its effects on development?
 2. What is software underestimation? What are its effects on development?
-3. Explain some problems with effort estimations!
-4. For effort estimation: 
+3. Explain some problems with effort estimations.
+4. What are some of the examples where you don't want to estimate?
+5. What is "big bang estimation"? Describe its advantages and disadvantages.
+6. What is planning poker?
+6. For effort estimation: 
      - define 2 strategies, one per line.
      - define 2 tactics, one per line.
      - define 2 methods, one per line.
-5. What is "big bang estimation"? Describe its advantages and disadvantages.
-6. How to do run software projects via "feature maturity"?
-     - What kinds of organizations are suitable for adopting this strategy? How so?
-7. An analysts estimates the development time of a softare project, as a single value. What are the drawbacks to such a single-point estimate?
-8.  What is the delay issue effect? 
-     - Make a case that it must be a fundamental problem in SE.
-     - Recent empirical results challenge the delay issue effect, describe those results.
-9. What is a spiral model of software development?
-10. How does spiral connected to waterfall?
-11. How could spiral model be connected to your work in February?
+7. How to do run software projects via "feature maturity"?
+     - What kinds of organizations are suitable for adopting this strategy?
+8. What is parametric software effort estimation?
+    - What is needed to use this kind of estimation?
+9. An analysts estimates the development time of a softare project, as a single value. What are the drawbacks to such a single-point estimate?
+10. What is COCOMO model? Write down the equation of COCOMO?
+11. How do you define time and effort for COCOMO to work?
+12. What does COCOMO didn’t include for the estimation?
