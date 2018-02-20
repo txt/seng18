@@ -20,16 +20,21 @@ ______
 1.   Consider the above feature model of a mobile phone. What features are allowed and forbidden in this diagram?
 2.   Consider the design of a car. Every car has a body, transmission, and engine. 
      A car does not necessarily have a trailer. The engine may be powered with gasoline or with electricity or with both. Draw a feature model for car.
-3.   A client has asked you to develop a word processor. 
+3.   Giving a project of building an airplane, give examples of stakeholders situation.
+4.   A client has asked you to develop a word processor. 
      - Write two non functional requirements for this scenario.
        For each, list factors that make them easier or harder to fill
      - List two functional requirements
        For each, list factors that make them easier or harder to fill
-4. Defend the following statements
+5. Defend the following statements
    - Before building any software, it is wise to spend much time collecting details requirements docs.
    - Requirements engineering is a waste of time.
-5. What are functional and non-functional requirements?
-6. What are different ways to assess a design on?
-7. Defend the following statemetns
+6. What are functional and non-functional requirements?
+7. What are different ways to assess a design on?
+8. Defend the following statemetns
       - Reuse is the key to productivity
       - Reuse is dangerous 
+
+![](../img/requirement.png)
+9. How do you develop this?
+
