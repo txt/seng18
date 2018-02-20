@@ -109,7 +109,7 @@ Do something cool, Evaluate it (using your peers) |
 |what | when | marks | notes |
 |-----|-----|--------|-----|
 |  1a | Feb1| 5| 5 page planning doc. Describes what and why. Also, an evaluation plan|
-| 1b  | Mar1  | 10|10 page report doc. . What your did. Why did you do it that way? How to install and run the code. Eval results|
+| 1b  | Mar12  | 10|10 page report doc. . What your did. Why did you do it that way? How to install and run the code. Eval results|
 | 1c  | March13,15| 5| 5 minute presentation, 15 slides, 20 secs per slide. Descibe what, why and the eval|
 | 1d  | March13,15| 5| Peer assessment: how "cool" is your project?|
 
