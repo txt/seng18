@@ -20,7 +20,9 @@ ______
 1.   Consider the above feature model of a mobile phone. What features are allowed and forbidden in this diagram?
 2.   Consider the design of a car. Every car has a body, transmission, and engine. 
      A car does not necessarily have a trailer. The engine may be powered with gasoline or with electricity or with both. Draw a feature model for car.
-3.   Giving a project of building an airplane, give examples of stakeholders situation.
+3.   Giving a project of building an airplane:
+     - Define/name of some of the possible stakeholders 
+     - What requirements each of the stakeholder would need? Are there any differences in the requirements? 
 4.   A client has asked you to develop a word processor. 
      - Write two non functional requirements for this scenario.
        For each, list factors that make them easier or harder to fill
@@ -36,5 +38,5 @@ ______
       - Reuse is dangerous 
 
 ![](../img/requirement.png)
-9. How do you develop this?
+9. How do you develop this?(four sections: xfr, stories, project specific requirements and NA)
 
