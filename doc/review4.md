@@ -14,6 +14,15 @@ ______
 
 # Review4
 
+## Requirement: 
+![](../img/goals.png)
+- What kind of problem is finding requirements of SE?
+- What are soft goals from this diagram?
+- Defend this statement: 
+  - Big Bang Rewrite less costly than Incrementally Rewrite
+  - We should not do Big Bang Rewrite
+
+
 ## Visual Notations for Programming:
  
 - Write two advantages of state chart. 
