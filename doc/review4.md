@@ -16,7 +16,7 @@ ______
 
 ## Requirement: 
 ![](../img/goals.png)
-- What kind of problem is finding requirements of SE?
+- What kind of problem is finding/choosing requirements of SE?
 - What are soft goals from this diagram?
 - Defend this statement: 
   - Big Bang Rewrite less costly than Incrementally Rewrite
