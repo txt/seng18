@@ -48,6 +48,9 @@ struct transition state_transitions [] = {
 -  What state chart and ER based models have in common?
 
 # 04/03/2018
+- What went wrong with the Facebook privacy scandal?
+- Who are the stakeholders for Facebook? and what do they want?
+- With the privacy problem, through the lens of a specific stakeholder and their demand, what do you propose to change/move forward?
 - What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
 - What are the limitations of compartmental model?
 - What is UML?
