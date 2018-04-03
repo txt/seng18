@@ -46,3 +46,10 @@ struct transition state_transitions [] = {
 - How ER based model solves different anomalies for the above scenario? Explain.
 - Why doe some people claim ER is not suitable for agile development?
 -  What state chart and ER based models have in common?
+
+# 04/03/2018
+- What is compartmental model? Give a small example of using this model for a grocery shop supply chain from warehouse to supermarket shelves.
+- What are the limitations of compartmental model?
+- What is UML?
+- What are few ways to write small class diagrams?
+- What are the few reasons of not using UML?
