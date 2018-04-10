@@ -17,8 +17,8 @@ ______
 ### ARCHITECTURE:
 
 1. What one thing we should be expect in:
-  - a poorly architectured system?
-  - a well architectured  system?
+    - a poorly architectured system?
+    - a well architectured  system?
 2. Layered architectures:
     - What is "LAMP" and why is it an example of a layered architecture>
     - Explain one advantage of a layered architecture.
