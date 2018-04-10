@@ -14,6 +14,8 @@ ______
 
 # Review Ques 4
 
+### ARCHITECTURE:
+
 1. What one thing we should be expect in:
   - a poorly architectured system?
   - a well architectured  system?
