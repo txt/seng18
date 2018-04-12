@@ -238,7 +238,7 @@ Surprise #2:  testing takes half the time?
 
 ### From IDC
 
-From [IDC Predictions 2018 ](img/predictions18.pdf)
+From [IDC Predictions 2018 ](../img/predictions18.pdf)
 Frank Gens, IDC Predictions 2018 Team.
 
 In the following:
