@@ -123,8 +123,8 @@ Note: No more than 2 Proj2 teams can work on the same Proj1 task
 |what | when | marks | notes |
 |-----|-----|--------|-----|
 |2a  | Mar29| 5|5 page progress report doc. What you are doing. What was done before. What you are trying to do better.|
-|2b| Apr17,Apr19|5|  10 minute presentations on what was achieved|
-|2d| Apr17,Apr19  | 5| Peer assessment: how "cool" is your project? |
+|2b| Apr24,Apr26|5|  10 minute presentations on what was achieved|
+|2d| Apr24,Apr26  | 5| Peer assessment: how "cool" is your project? |
 |2c| May1  | 10| 10 page report doc. What you did. Why. Evaluation of new, and compared to old. Recommendations |
 
 
